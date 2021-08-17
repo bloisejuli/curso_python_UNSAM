@@ -10,8 +10,8 @@
 
 
 ### [UNIDAD 2: Estructuras y Funciones](https://github.com/bloisejuli/curso_python_UNSAM/tree/main/Unidad_2)
- 1. [buscar_precios.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/buscar_precios.py): Función que busca en el archivo <precios.csv> el precio de una determinada fruta.
- 2. [costo_camion.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/costo_camion.py): Lee la información del archivo <camion.csv> y calcula el precio pagado por los cajones cargados en el camión.
- 3. [camion_commandline.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/camion_commandline.py): Hace lo mismo que <costo_camion.py> pero incorpora la lectura de parámetros por línea de comando.
- 4. [diccionario_geringoso](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/diccionario_geringoso.py): A partir de una lista de palabras, devuelva un diccionario geringoso.
- 5. [informe.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/informe.py): Usando la información en los archivos <camion.csv> y <precios.csv> calcula si hubo una ganacia o perdida, si se logró vender todos los cajones de frutas del camión.
+ 1. [buscar_precios.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/buscar_precios.py): Función que busca en el archivo `precios.csv` el precio de una determinada fruta.
+ 2. [costo_camion.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/costo_camion.py): Lee la información del archivo `camion.csv` y calcula el precio pagado por los cajones cargados en el camión.
+ 3. [camion_commandline.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/camion_commandline.py): Hace lo mismo que `costo_camion.py` pero incorpora la lectura de parámetros por linea de comando. 
+ 4. [diccionarlo_geringoso](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/diccionario_geringoso.py): A partir de una lista de palabras, devuelva un diccionario geringoso.
+ 5. [informe.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/informe.py): Usando la información en los archivos `camion.csv` y `precios.csv`  calcula si hubo una ganacia o perdida, si se logró vender todos los cajones de frutas del camión.
