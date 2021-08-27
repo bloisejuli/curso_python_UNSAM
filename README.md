@@ -15,3 +15,11 @@
  3. [camion_commandline.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/camion_commandline.py): Hace lo mismo que `costo_camion.py` pero incorpora la lectura de parámetros por linea de comando. 
  4. [diccionarlo_geringoso](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/diccionario_geringoso.py): A partir de una lista de palabras, devuelva un diccionario geringoso.
  5. [informe.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_2/informe.py): Usando la información en los archivos `camion.csv` y `precios.csv`  calcula si hubo una ganacia o perdida, si se logró vender todos los cajones de frutas del camión.
+
+### [UNIDAD 3: Datos](https://github.com/bloisejuli/curso_python_UNSAM/tree/main/Unidad_3)
+ 1. [solucion_de_errores.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_3/solucion_de_errores.py): Cinco códigos que tenian errores y que había que corregirlos.
+ 2. [informe.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_3/informe.py): Modifica el código hecho en la unidad anterior para poder usar la función `zip()`.
+ 3. [tabla_informe.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_3/tabla_informe.py): Imprime a partir de un archivo una tabla con formato.
+ 4. [tablamult.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_3/tablamult.py): Imprime de forma prolija las tablas de multiplicar del 1 al 9 usando f-strings.
+ 5. [arboles.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_3/arboles.py): Usa el archivo `arbolado-en-espacios-verdes.csv` para realizar distintas operaciones.
+ 
