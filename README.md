@@ -23,3 +23,8 @@
  4. [tablamult.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_3/tablamult.py): Imprime de forma prolija las tablas de multiplicar del 1 al 9 usando f-strings.
  5. [arboles.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_3/arboles.py): Usa el archivo `arbolado-en-espacios-verdes.csv` para realizar distintas operaciones.
  
+### [UNIDAD 4: Listas](https://github.com/bloisejuli/curso_python_UNSAM/tree/main/Unidad_4)
+ 1. [busqueda_en_listas.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_4/busqueda_en_listas.py): Funciones que buscan un determinado elemento en una lista, además de una función que busca el máximo y otra el mínimo.
+ 2. [invlista.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_4/invlista.py): Dada una lista devuelve otra que tenga los mismos elementos pero en el orden inverso.
+ 3. [propaga.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_4/propaga.py): Reciba un vector con 0's, 1's y -1's y devuelve un vector en el que los 1's se propagaron a sus vecinos con 0.
+ 4. [arboles.py](https://github.com/bloisejuli/curso_python_UNSAM/blob/main/Unidad_4/arboles.py): Una serie de ejercicios que trabaja con el archivo `arbolado-en-espacios-verdes.csv` para usar comprensión de listas.
